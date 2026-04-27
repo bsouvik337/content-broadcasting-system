@@ -50,4 +50,3 @@ content-broadcasting-system/
 │── server.js
 │── package.json
 │── README.md
-│── architecture-notes.txt
